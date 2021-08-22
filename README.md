@@ -29,10 +29,19 @@ The Kaggle and rating data were then merged with the Wikipedia movies DataFrame.
 ### Load the data to a PostgreSQL Movie Database
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alecngai/08_Movies_ETL/main/Resources/movies_query.png"> 
+  <img src="https://raw.githubusercontent.com/alecngai/08_Movies_ETL/main/Resources/movies_query1.png"> 
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alecngai/08_Movies_ETL/main/Resources/ratings_query.png"> 
+  <img src="https://raw.githubusercontent.com/alecngai/08_Movies_ETL/main/Resources/movies_query_count.png"> 
+</p>
+<br/>
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alecngai/08_Movies_ETL/main/Resources/ratings_query1.png"> 
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alecngai/08_Movies_ETL/main/Resources/ratings_query_count.png"> 
 </p>
 <br/>
 
